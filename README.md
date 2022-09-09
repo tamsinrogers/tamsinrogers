@@ -2,7 +2,6 @@
 Hi, I'm Tamsin 👋
 
 #####
-rgb(0,0,250)
 - CS student at Colby College
 - currently doing research in eye tracking and source code comprehension
 
