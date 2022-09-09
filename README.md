@@ -1,4 +1,6 @@
-### 👋
+### Hi, I'm Tamsin 👋
+- CS student at Colby College
+- currently doing research in eye tracking and source code comprehension
 
 <!--
 **tamsinrogers/tamsinrogers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
