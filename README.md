@@ -5,9 +5,6 @@ Hi, I'm Tamsin 👋
 - CS student at Colby College
 - currently doing research in eye tracking and source code comprehension
 
-
-![GitHub pull request check state](https://img.shields.io/github/status/s/pulls/tamsinrogers/ParallelProgramming/10)
-
 <!--
 **tamsinrogers/tamsinrogers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
