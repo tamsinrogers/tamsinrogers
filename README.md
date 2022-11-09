@@ -4,6 +4,8 @@
 
 🔭  Working on: detecting emotions from eye movement
 
+👀  Ask me about: how to use eye-tracking to improve software debugging processes
+
 🌱  Learning: web development (Flask & Azure)
 
 💬  Check out stuff I've published [here](https://scholar.google.com/citations?user=wTO_xbkAAAAJ&hl=en)
