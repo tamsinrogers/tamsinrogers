@@ -1,11 +1,9 @@
-#
-Hi, I'm Tamsin 👋
+<h1 align="center">Hi :bangbang: I'm Tamsin  </h1>
+<h3 align="center">CS @ Colby College ('23) </h3>
 
-#####
-- CS student at Colby College
-- Currently doing research in eye tracking and source code comprehension
 
-<h3 align="left">Connect with me:</h3>
+
+<h5 align="left">Connect with me:</h5>
 <p align="left">
 <a href="https://linkedin.com/in/tamsinrogers" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tamsinrogers" height="30" width="40" /></a>
 </p>
