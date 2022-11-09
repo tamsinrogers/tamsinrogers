@@ -6,7 +6,7 @@
 
 🌱  learning: web development (Flask & Azure)
 
-💬  check out what I'm publishing [here](https://scholar.google.com/citations?user=wTO_xbkAAAAJ&hl=en)
+💬  check out what stuff I've published [here](https://scholar.google.com/citations?user=wTO_xbkAAAAJ&hl=en)
  
 
 <p align="center">
