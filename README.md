@@ -3,7 +3,7 @@
 
  <p> 🔭  working on: detecting emotions from eye movement </p>
  <p> 🌱  learning: web development (Flask & Azure) </p>
- <p> 💬  read what I'm working on [Link text Here](https://link-url-here.org)
+ <p> 💬  read what I'm working on [Namesake](https://github.com/nalmadi/Namesake)
 
 <p align="center">
 <a href="https://linkedin.com/in/tamsinrogers" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tamsinrogers" height="30" width="40" /></a>
