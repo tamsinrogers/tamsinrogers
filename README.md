@@ -2,13 +2,13 @@
 <h3 align="center">CS @ Colby College ('23) </h3>
 
 
-🔭  Working on: detecting emotions from eye movement
-
-👀  Ask me about: how to use eye-tracking to improve software debugging processes
+🌟  Working on: detecting emotions from eye movement
 
 🌱  Learning: web development (Flask & Azure)
 
-💬  Check out stuff I've published [here](https://scholar.google.com/citations?user=wTO_xbkAAAAJ&hl=en)
+👀  Ask me about: how to use eye-tracking to improve software debugging processes
+
+📚  Check out stuff I've published [here](https://scholar.google.com/citations?user=wTO_xbkAAAAJ&hl=en)
  
 <h5 align="center">Connect with me!</h5>
 <p align="center">
