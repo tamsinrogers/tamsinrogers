@@ -2,14 +2,14 @@
 <h3 align="center">CS @ Colby College ('23) </h3>
 
 
-🔭  working on: detecting emotions from eye movement
+🔭  Working on: detecting emotions from eye movement
 
-🌱  learning: web development (Flask & Azure)
+🌱  Learning: web development (Flask & Azure)
 
-💬  check out what stuff I've published [here](https://scholar.google.com/citations?user=wTO_xbkAAAAJ&hl=en)
+💬  Check out stuff I've published [here](https://scholar.google.com/citations?user=wTO_xbkAAAAJ&hl=en)
  
 
-<p align="center">
+<p align="center" Connect with me!>
 <a href="https://linkedin.com/in/tamsinrogers" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tamsinrogers" height="30" width="40" /></a>
   
   
