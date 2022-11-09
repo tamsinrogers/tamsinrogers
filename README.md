@@ -16,7 +16,7 @@
 </p>
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tamsinrogers&show_icons=true&locale=en" alt="tamsinrogers" /></p>
+<p align = "center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tamsinrogers&show_icons=true&locale=en" alt="tamsinrogers" /></p>
 
 
 
