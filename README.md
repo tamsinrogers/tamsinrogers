@@ -3,7 +3,7 @@
 
  <p> 🔭  working on: detecting emotions from eye movement </p>
  <p> 🌱  learning: web development (Flask & Azure) </p>
- <p> 💬  read what I'm working on here (https://scholar.google.com/citations?user=wTO_xbkAAAAJ&hl=en) </p>
+ <p> 💬  read what I'm working on [here](https://scholar.google.com/citations?user=wTO_xbkAAAAJ&hl=en) </p>
  
 
 <p align="center">
