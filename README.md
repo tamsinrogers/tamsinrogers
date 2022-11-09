@@ -1,11 +1,10 @@
 <h1 align="center">Hi :bangbang: I'm Tamsin  </h1>
 <h3 align="center">CS @ Colby College ('23) </h3>
 
-  <p> 
-  🔭 working on: detecting emotions from eye movement 
- 🌱 learning: web development (Flask & Azure)
- 📫 talk to me at: <tamsinrogers@icloud.com>
-  </p>
+  <p> 🔭 working on: detecting emotions from eye movement </p>
+ <p> 🌱 learning: web development (Flask & Azure) </p>
+ <p> 📫 talk to me at: <tamsinrogers@icloud.com> </p>
+
 
 <h5 align="center">Connect with me:</h5>
 <p align="center">
