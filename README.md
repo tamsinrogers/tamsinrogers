@@ -9,9 +9,10 @@
 💬  Check out stuff I've published [here](https://scholar.google.com/citations?user=wTO_xbkAAAAJ&hl=en)
  
 <h5 align="center">Connect with me!</h5>
+<p align="center">
 <a href="https://linkedin.com/in/tamsinrogers" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tamsinrogers" height="30" width="40" /></a>
  
-
+</p>
 
 <p align = "center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=tamsinrogers&show_icons=true&locale=en" alt="tamsinrogers" /></p>
 
