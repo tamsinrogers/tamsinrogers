@@ -4,8 +4,10 @@
 This site was built using [GitHub Pages](https://pages.github.com/).
 
 🔭  working on: detecting emotions from eye movement
+
 🌱  learning: web development (Flask & Azure)
-💬  read what I'm working on here: (https://scholar.google.com/citations?user=wTO_xbkAAAAJ&hl=en)
+
+💬  read what I'm working on [here](https://scholar.google.com/citations?user=wTO_xbkAAAAJ&hl=en)
  
 
 <p align="center">
