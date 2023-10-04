@@ -6,8 +6,8 @@
 
 👀  Ask me about: how to use eye-tracking to improve software debugging processes
 
-📚  Check out stuff I've published [here]([https://scholar.google.com/citations?user=wTO_xbkAAAAJ&hl=en](https://scholar.google.com/citations?user=6vMSs1UAAAAJ&hl=en))
-<p>[I'm an inline-style link](https://www.google.com)</p>
+📚  Check out stuff I've published 
+<p>[here]([https://scholar.google.com/citations?user=wTO_xbkAAAAJ&hl=en](https://scholar.google.com/citations?user=6vMSs1UAAAAJ&hl=en))</p>
  
 <h5 align="center">Connect with me!</h5>
 <p align="center">
