@@ -6,7 +6,7 @@
 
 👀  Ask me about: how to use eye-tracking to improve software debugging processes
 
-<p>📚  Check out stuff I've published [here]((https://scholar.google.com/citations?user=6vMSs1UAAAAJ&hl=en))</p>
+📚  Check out stuff I've published [here](https://scholar.google.com/citations?user=6vMSs1UAAAAJ&hl=en)
 
 <p>
  [here](https://www.google.com)
