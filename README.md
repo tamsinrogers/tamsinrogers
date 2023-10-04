@@ -1,5 +1,5 @@
 <h1 align="center">Hi :grey_exclamation: I'm Tamsin  </h1>
-<h3 align="center">CS @ Colby College ('23) </h3>
+<h3 align="center"> software, web, AI/ML </h3>
 
 
 🌱  Learning: web development (Flask, Azure, Drupal)
