@@ -1,8 +1,7 @@
 <h1 align="center">Hi :grey_exclamation: I'm Tamsin  </h1>
-<h3 align="center"> software, web, AI/ML </h3>
 
 
-🌱  Learning: web development (Flask, Azure, Drupal)
+🌱  Currently learning: web development (Flask, Azure, Drupal)
 
 👀  Ask me about: how to use eye-tracking to improve software debugging processes
 
